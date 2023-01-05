@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1671368043 source:c:\data\tugas\struktur data\tp\mod13_1301213118\main.cpp
+	"graph.h"
+
+1671367918 
+
+1671367918 c:\data\tugas\struktur data\tp\mod13_1301213118\graph.h
+	<iostream>
+
+1671368247 source:c:\data\tugas\struktur data\tp\mod13_1301213118\graph.cpp
+	"graph.h"
+
+1671535256 source:/Users/nicholasdavi/Documents/Codes/uni/Strukdat/MOD13_1301213118/main.cpp
+	"graph.h"
+
+1671367918 /Users/nicholasdavi/Documents/Codes/uni/Strukdat/MOD13_1301213118/graph.h
+	<iostream>
+
+1671533898 source:/Users/nicholasdavi/Documents/Codes/uni/Strukdat/MOD13_1301213118/graph.cpp
+	"graph.h"
+
